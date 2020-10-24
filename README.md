@@ -10,4 +10,4 @@ Project Understanding.
 
 * Predicted future daily sales based on features obtained from the data of 1115 stores, made use of concept called additive regression.
 * Applied Facebook prophet to predict future sales using this real world dataset, predicted future weekly, monthly & yearly trends.
--
+
